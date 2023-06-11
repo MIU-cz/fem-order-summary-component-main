@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+@import url(../resourse/normaliz-style-min.css);
+@import url(../resourse/fem-footer-style.css);
+// # Front-end Style Guide
+// ## Layout
+
+// The designs were created to the following widths:
+// - Mobile: 375px
+// - Desktop: 1440px
+
+// ## Colors
+// ### Primary
+$color-Pale-blue: hsl(225, 100%, 94%);
+$color-Bright-blue: hsl(245, 75%, 52%);
+
+// ### Neutral
+$color-Very-pale-blue: hsl(225, 100%, 98%);
+$color-Desaturated-blue: hsl(224, 23%, 55%);
+$color-Dark-blue: hsl(223, 47%, 23%);
+
+// ## Typography
+$font-size-paragraph: 16px;
+
+// ### Font
+$font-Family: "Red Hat Display";
+$font-W5: 500;
+$font-W7: 700;
+$font-W9: 900;
+
+// ## my Variables
+
+// ===============
+// ### main styles
+body {
+}
