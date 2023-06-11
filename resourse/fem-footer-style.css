@@ -13,18 +13,17 @@
 	/* padding-bottom: 15px; */
 	/* margin: 20px 20px 0; */
 	padding: 20px 20px;
-
-	position: fixed;
-	bottom: 0;
+	/* position: fixed;
+	bottom: 0; */
 }
 
 .attribution a {
 	color: var(--my-link-color);
 }
 
-/* @media (min-width: 768px) {
+@media (min-width: 375px) {
 	.attribution {
 		position: fixed;
 		bottom: 0;
 	}
-} */
+}
